@@ -53,9 +53,7 @@ I'm 𝑶𝒔𝒂𝒎𝒂 𝑹𝒆𝒅𝒂 𝑹𝒂𝒇𝒂𝒕 from 𝟷𝟶𝚝
 
 <h3 align="left">🔥 My Stats</h3>
 
-<div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Osama-R-Rafat&theme=dark&mode=weekly" alt="GitHub Streak" /></a></div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Osama-R-Rafat&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ###
 
 <div align="center">
