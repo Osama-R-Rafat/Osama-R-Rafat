@@ -1,19 +1,18 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Osama-R-Rafat.Osama-R-Rafat" />
 </div>
 
 ###
@@ -24,15 +23,15 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+I'm 𝑶𝒔𝒂𝒎𝒂 𝑹𝒆𝒅𝒂 𝑹𝒂𝒇𝒂𝒕 from 𝟷𝟶𝚝𝚑 𝚘𝚏 𝚛𝚊𝚖𝚍𝚊𝚗 city<br><br>
+- 🔭 I’m working as DevOps Engineer<br>
+- 📚 I'm currently learning ...<br>
+- ⚡ In my free time I ...</p>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
@@ -58,10 +57,14 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Osama-R-Rafat&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/osama-reda-a54b7223b/" target="_blank">LinkedIn</a> •
+  <a href="https://x.com/big_ososs" target="_blank">Twitter</a> •
+  <a href="https://github.com/Osama-R-Rafat" target="_blank">GitHub</a>
+</div>
